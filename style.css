@@ -1,6 +1,23 @@
 body {
   background: #000;
   color: #fff;
-  padding: 25px;
+  padding: 
+  px;
   font-family: Block BQ ;
+}
+h1{
+  background: #;
+  color: #;
+  padding:  50px;
+  font-family: Block BQ;
+  font-size: 100px;
+}
+.image {
+  background-image: url("https://i0.wp.com/xboxera.com/wp-content/uploads/2020/08/Grounded.jpg?fit=1920%2C1080&ssl=1");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+.caption{
+  margin: 40px;
 }
