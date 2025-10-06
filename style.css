@@ -37,3 +37,9 @@ a:hover{
   color: red;
   text-decoration: underline;
 }
+table, th, td {
+  border: 1px solid white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
