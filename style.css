@@ -20,8 +20,8 @@ h1{
 }
 .image {
   image: url("https://static.wikia.nocookie.net/grounded9429/images/5/51/Start_Field_Station.png/revision/latest?cb=20220305195244");
-  background-size: cover;
-  background-position: center;
+  size: cover;
+  position: center;
   height: 300px;
 }
 .caption{
