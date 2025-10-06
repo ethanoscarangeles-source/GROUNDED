@@ -27,6 +27,13 @@ h1{
 .caption{
   margin: 40px;
 }
-.link {
-  background-color: #fff;
+a:visited {
+  color: purple;
+}
+a:active{
+  color: green;
+}
+a:hover{
+  color: red;
+  text-decoration: underline;
 }
