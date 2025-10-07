@@ -12,13 +12,13 @@ h1{
   font-family: Block BQ;
   font-size: 100px;
 }
-.image1 {
+.image {
   background-image: url("https://i0.wp.com/xboxera.com/wp-content/uploads/2020/08/Grounded.jpg?fit=1920%2C1080&ssl=1");
   background-size: cover;
   background-position: center;
   height: 300px;
 }
-.image2 {
+.image {
   image: url("https://static.wikia.nocookie.net/grounded9429/images/5/51/Start_Field_Station.png/revision/latest?cb=20220305195244");
   size: cover;
   position: center;
