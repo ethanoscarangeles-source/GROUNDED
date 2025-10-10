@@ -13,7 +13,7 @@ h1{
   font-size: 100px;
   float: center;
   border: 4px groove gold;
-  width: 150px;
+  width: fit-content;
 }
 #image1,image2{
 height:200px
