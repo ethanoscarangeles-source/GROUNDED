@@ -12,8 +12,10 @@ h1{
   font-family: Block BQ;
   font-size: 100px;
 }
-
+#image1,image2{
+height:200px
 }
+
 .caption{
   margin: 40px;
 }
