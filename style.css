@@ -12,17 +12,7 @@ h1{
   font-family: Block BQ;
   font-size: 100px;
 }
-#image1 {
-  background-image: 'grounded.png';
-  background-size: cover;
-  background-position: center;
-  height: 300px;
-}
-#image2 {
-  background-image: 'fstation.png';
-  size: cover;
-  position: center;
-  height: 300px;
+
 }
 .caption{
   margin: 40px;
