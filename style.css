@@ -11,6 +11,8 @@ h1{
   padding:  50px;
   font-family: Block BQ;
   font-size: 100px;
+  float: center;
+  border: 4px groove gold;
 }
 #image1,image2{
 height:200px
@@ -33,7 +35,4 @@ table, th, td {
   border: 5px solid white;
   font-family: Arial, sans-serif;
   text-align: left;
-}
-#game info{
-  
 }
